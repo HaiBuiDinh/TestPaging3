@@ -1,4 +1,4 @@
-package com.aemyfiles.testpaging3
+package com.aemyfiles.mypaging3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

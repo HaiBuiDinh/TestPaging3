@@ -1,4 +1,4 @@
-package com.aemyfiles.testpaging3
+package com.aemyfiles.mypaging3
 
 import org.junit.Test
 
